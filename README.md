@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Jesus da silva 
 
-- 🌱 Desenvolvedo Full-Stack em formação
+- 🌱 Desenvolvedor Full-Stack em formação
 - 😄 Pronouns: Ele/He
 
  <div>
