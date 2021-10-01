@@ -17,6 +17,9 @@
   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br>
   
    
-   ![Snake animation](https://github.com/Gabrielgjs/Gabrielgjs/blob/output/github-contribution-grid-snake.svg)
+  
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
    
  </div>
