@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Gabriel Jesus da silva 
 
 - 💻  Desenvolvedor Full-Stack em formação
-- 
+
 - 📚  Analise e desenvolvimento de sistemas
-- 
+
 - 😄 Pronouns: Ele/He
 
  <div>
