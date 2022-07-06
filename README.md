@@ -33,8 +33,8 @@ public static void main(String args[]){
     me.years = 29;
     me.nickname = "Biel";
     me.applications = "Java, CSS, HTML,
-                       Python, SQL, JavaScript";
+                       Python, SQL, JavaScript, C#";
     me.tools = "Git, VSCode, Eclipse, MySQL, 
-                    Spring Boot, Heroku, Pycharm";
+                    Spring Boot, Heroku, Pycharm, Visual Studio";
 }
 ```
